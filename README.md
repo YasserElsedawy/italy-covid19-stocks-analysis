@@ -1,4 +1,4 @@
-# italy-covid19-stocks-analysis
+# italy-france-covid19-stocks-analysis
 
 COVID-19 has changed our lives for good. The world is in a complete lockdown, and we had to make major changes in our lifestyles. The impacts of the virus is spreading, disrupting everyday life in Milan and everywhere else in the world, cutting shopping, disrupting global supply chains, real estate market and threatening the economy.
 
