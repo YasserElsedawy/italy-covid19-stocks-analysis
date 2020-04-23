@@ -1,4 +1,4 @@
-# Milan and Paris Stock Exchange analysis with COVID-19
+# Milan and Paris Stock Exchange Analysis with COVID-19
 
 The world is being hit with an invisible enemy, COVID-19 has changed our lives for good. We are in a complete lockdown, and we had to make major changes in our lifestyles and businesses, the impacts of the virus is spreading, disrupting everyday life in Milan and everywhere else in the world, cutting shopping, disrupting global supply chains, real estate market and threatening the economy, whatever crisis management responses guides that may have existed weeks ago now seem to be from another time, the situation is forcing everyone to evolve and adapt their strategies and creativity in real-time. 
 
